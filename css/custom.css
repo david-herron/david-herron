@@ -1,0 +1,43 @@
+/*
+Header and Logo
+*/
+header {
+	margin-top: 30px;
+}
+
+/*
+Navigation styles
+*/
+nav {
+	margin-top:45px;
+}
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	text-decoration: none;
+	padding: 15px 30px;
+}
+
+nav a:hover {
+	color: grey;
+}
+
+/*
+Page Content
+*/
+.content {
+	margin-top: 60px;
+}
+
+.portfolio-lg{
+	width: 500px;
+}
